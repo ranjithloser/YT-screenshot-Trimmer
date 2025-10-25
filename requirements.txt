@@ -1,0 +1,9 @@
+streamlit
+requests
+Pillow
+python-docx
+pandas
+yt-dlp
+moviepy
+tqdm
+openpyxl
