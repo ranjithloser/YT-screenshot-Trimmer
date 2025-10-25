@@ -1,9 +1,12 @@
 streamlit
 requests
-Pillow
-python-docx
 pandas
+python-docx
+Pillow
+selenium
+webdriver-manager
 yt-dlp
 moviepy
 tqdm
 openpyxl
+chromedriver-autoinstaller
